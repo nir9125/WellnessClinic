@@ -1,0 +1,6 @@
+{
+  "name": "Doctor Appointment Booking",
+  "description": "Clean, mobile-friendly doctor appointment booking system for medical clinics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
